@@ -46,15 +46,15 @@
  </br>1. 使用localStorage
   
 * RWD切版 - https://hotman0901.github.io/RwdTest/
-  1. 不倚賴 Framework 進行客製化
-  2. 使用sass進行css規劃
+  </br>1. 不倚賴 Framework 進行客製化
+  </br>2. 使用sass進行css規劃
   
 * Jquery - https://hotman0901.github.io/jqueryTest/
-  1. 使用第三方套件製作燈箱與輪播效果
+  </br>1. 使用第三方套件製作燈箱與輪播效果
   
 * travel -  https://hotman0901.github.io/travel/
-  1. 使用bootstrap 進行格線規劃
-  2. 使用javascript透過ajax取得open data資料
+  </br>1. 使用bootstrap 進行格線規劃
+  </br>2. 使用javascript透過ajax取得open data資料
 
 <hr>
 
