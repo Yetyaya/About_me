@@ -43,7 +43,7 @@
 ## 作品
 
 * BMI測試 - https://hotman0901.github.io/bmi/
- *. 使用localStorage
+ </br>1. 使用localStorage
   
 * RWD切版 - https://hotman0901.github.io/RwdTest/
   1. 不倚賴 Framework 進行客製化
