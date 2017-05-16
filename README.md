@@ -23,7 +23,7 @@
 #### 前端
 
  * SASS 規劃網頁
- * Responsive Web Design，不倚賴 Framework 進行客製化
+ * Responsive Web Design，不倚賴 Framework 進行css客製化
  * jQuery 設計網頁動畫效果，了解如何使用第三方套件
  * JSON/Ajax 透過open data串接資料應用
  
