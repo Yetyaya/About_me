@@ -8,47 +8,54 @@
 
 <hr>
 ### Experience 工作經歷
+
 #### 康維爾 java程式設計師
- - 參與電信系統建制專案(負責java程式開發)
- - 參與電信國際語音攤收支預估系統專案(負責java程式開發)
- - 參與電信國際語音攤收支出帳系統專案(負責java程式開發)
+
+ * 參與電信系統建制專案(負責java程式開發)
+ * 參與電信國際語音攤收支預估系統專案(負責java程式開發)
+ * 參與電信國際語音攤收支出帳系統專案(負責java程式開發)
  
 <hr>
 ### 技能清單
+
 #### 前端
- - SASS 規劃網頁
- - Responsive Web Design，不倚賴 Framework 進行客製化
- - jQuery 設計網頁動畫效果，了解如何使用第三方套件
- - JSON/Ajax 透過open data串接資料應用
+
+ * SASS 規劃網頁
+ * Responsive Web Design，不倚賴 Framework 進行客製化
+ * jQuery 設計網頁動畫效果，了解如何使用第三方套件
+ * JSON/Ajax 透過open data串接資料應用
  
 #### 後端 
- - java
+
+ * java
  
 #### 其他
- - Git/GitHub 基本使用(GUI:Source Tree、GitKraken)
- - DataBase Orcale SQL
- - server tomcat、weblogic、jboss 
- - ireport
- - photoshop、illustrator
+ * Git/GitHub 基本使用(GUI:Source Tree、GitKraken)
+ * DataBase Orcale SQL
+ * server tomcat、weblogic、jboss 
+ * ireport
+ * photoshop、illustrator
  
 <hr>
 ### 作品
-- BMI測試 - https://hotman0901.github.io/bmi/
-  - 使用localStorage
-- RWD切版 - https://hotman0901.github.io/RwdTest/
-  - 不倚賴 Framework 進行客製化
-  - 使用sass進行css規劃
-- Jquery - https://hotman0901.github.io/jqueryTest/
-  - 使用第三方套件製作燈箱與輪播效果
-- travel -  https://hotman0901.github.io/travel/
-  - 使用bootstrap 進行格線規劃
-  - 使用javascript透過ajax取得open data資料
+
+* BMI測試 - https://hotman0901.github.io/bmi/
+  * 使用localStorage
+* RWD切版 - https://hotman0901.github.io/RwdTest/
+  * 不倚賴 Framework 進行客製化
+  * 使用sass進行css規劃
+* Jquery - https://hotman0901.github.io/jqueryTest/
+  * 使用第三方套件製作燈箱與輪播效果
+* travel -  https://hotman0901.github.io/travel/
+  * 使用bootstrap 進行格線規劃
+  * 使用javascript透過ajax取得open data資料
 
 <hr>
 ### Personality 關於我
- - 因為科系的關係之前從事都是電機相關工作，在偶然情況踏入了java的領域，在工作的兩年中，了解到有前端相關訊息，所以透過自學與線上課程增進前端技術，期許自己成為一位出色的前端工程師。
- - 樂於涉略多元技術及知識。
- - 樂於團隊溝通合作。
+
+ * 因為科系的關係之前從事都是電機相關工作，在偶然情況踏入了java的領域，在工作的兩年中，了解到有前端相關訊息，所以透過自學與線上課程增進前端技術，期許自己成為一位出色的前端工程師。
+ * 樂於涉略多元技術及知識。
+ * 樂於團隊溝通合作。
  
 
 
