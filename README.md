@@ -29,14 +29,14 @@
  
 #### 後端 
 
- * java
+ * java 邏輯設計與DB串接
  
 #### 其他
  * Git/GitHub 基本使用(GUI:Source Tree、GitKraken)
- * DataBase Orcale SQL
- * server tomcat、weblogic、jboss 
- * ireport
- * photoshop、illustrator
+ * DataBase Orcale SQL基本語法
+ * server tomcat、weblogic、jboss與java做整合
+ * ireport 報表製作
+ * photoshop、illustrator 基本工具操作
  
 <hr>
 
