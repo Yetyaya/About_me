@@ -22,7 +22,7 @@
 
 #### 前端
 
- * Sass + RWD 規劃網頁，不倚賴 Framework 進行 Css 客製化
+ * Sass + RWD 規劃網頁，不倚賴 Framework 進行 CSS 客製化
  * jQuery 設計網頁動畫效果，了解如何使用第三方套件
  * JSON/Ajax 透過 Open Data 串接資料應用
  
