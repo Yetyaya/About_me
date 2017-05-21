@@ -22,7 +22,7 @@
 
 #### 前端
 
- * Sass + RWD 規劃網頁，不倚賴 Framework 進行 CSS 客製化
+ * Sass + RWD 規劃網頁，不倚賴 CSS Framework 進行 RWD 客製化
  * jQuery 設計網頁動畫效果，了解如何使用第三方套件
  * JSON/Ajax 透過 Open Data 串接資料應用
  
@@ -45,7 +45,7 @@
  </br>1. 使用 LocalStorage
   
 * 六角西餐廳(RWD、Sass、JQuery) - https://hotman0901.github.io/RwdTest/
-  </br>1. 不倚賴 Framework 進行客製化
+  </br>1. 不倚賴 CSS Framework 進行 RWD 客製化
   
 * Jquery - https://hotman0901.github.io/jqueryTest/
   </br>1. 使用第三方套件製作套用燈箱與輪播效果
