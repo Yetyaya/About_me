@@ -10,11 +10,11 @@
 
 ## 工作經歷
 
-#### 康維爾 java程式設計師
+#### 康維爾 java 程式設計師
 
- * 參與電信系統建制專案(負責JAVA程式開發)
- * 參與電信國際語音攤收支預估系統專案(負責JAVA程式開發)
- * 參與電信國際語音攤收支出帳系統專案(負責JAVA程式開發)
+ * 參與電信系統建制專案(負責 JAVA 程式開發)
+ * 參與電信國際語音攤收支預估系統專案(負責 JAVA 程式開發)
+ * 參與電信國際語音攤收支出帳系統專案(負責 JAVA 程式開發)
  
 <hr>
 
@@ -22,7 +22,7 @@
 
 #### 前端
 
- * Sass + RWD 規劃網頁，不倚賴 Framework 進行css客製化
+ * Sass + RWD 規劃網頁，不倚賴 Framework 進行 Css 客製化
  * jQuery 設計網頁動畫效果，了解如何使用第三方套件
  * JSON/Ajax 透過 Open Data 串接資料應用
  
@@ -32,7 +32,7 @@
   
 #### 其他
  * Git/GitHub 基本使用(GUI:Source Tree、GitKraken)
- * DataBase Orcale SQL基本語法
+ * DataBase Orcale SQL 基本語法
  * Server Tomcat、Weblogic、JBoss 與 JAVA 做整合
  * IReport 報表製作
  * Photoshop、Illustrator 基本工具操作
@@ -41,7 +41,7 @@
 
 ## 作品
 
-* BMI測試(JavaScript) - https://hotman0901.github.io/bmi/
+* BMI 測試(JavaScript) - https://hotman0901.github.io/bmi/
  </br>1. 使用 LocalStorage
   
 * 六角西餐廳(RWD、Sass、JQuery) - https://hotman0901.github.io/RwdTest/
