@@ -31,7 +31,7 @@
  * JAVA 邏輯設計與 DB 串接
   
 #### 其他
- * Git/GitHub 基本使用(GUI:Source Tree、GitKraken)
+ * Git/GitHub 基本使用(GUI：Source Tree、GitKraken)
  * DataBase Orcale SQL 基本語法
  * Server Tomcat、Weblogic、JBoss 與 JAVA 做整合
  * IReport 報表製作
