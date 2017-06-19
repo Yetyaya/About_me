@@ -60,7 +60,7 @@
 * Vue - Shop -  https://hotman0901.github.io/shop-test/
   </br>1. 使用 Vue 框架打造購物網
   </br>2. 使用 Vue-Router、Vuex
-  </br>3. 使用 Firbase 做為 FaceBook 登入的橋接
+  </br>3. 使用 Firebase 做為 FaceBook 登入的橋接
   </br>4. 購物資料透過 Firebase 的 DataBase 來儲存
   </br>5. 使用 Bootstrap 進行格線規劃
 
