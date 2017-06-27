@@ -64,6 +64,8 @@
   </br>4. 購物資料透過 Firebase 的 DataBase 來儲存
   </br>5. 使用 Bootstrap 進行格線規劃
 
+* RWD 切版練習
+   </br>1. https://hotman0901.github.io/rwd-practice1/index.html
 <hr>
 
 ## 未來計劃
