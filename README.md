@@ -64,7 +64,7 @@
   </br>4. 購物資料透過 Firebase 的 DataBase 來儲存
   </br>5. 使用 Bootstrap 進行格線規劃
 
-* Vue - Weather Search -  https://hotman0901.github.io/Taiwan-Weather-Search/
+* Vue - Weather Search -  https://hotman0901.github.io/Taiwan-Weather-Search/
   </br>1. 使用 Vue 框架
   </br>2. 使用 Vuex
   </br>3. 使用 Google Map API
