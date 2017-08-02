@@ -42,7 +42,7 @@
 ## 作品
 
 * BMI 測試(JavaScript) - https://hotman0901.github.io/bmi/
- </br>1. 使用 LocalStorage
+  </br>1. 使用 LocalStorage
   
 * 六角西餐廳(RWD、Sass、JQuery) - https://hotman0901.github.io/RwdTest/
   </br>1. 不倚賴 CSS Framework 進行 RWD 客製化
@@ -63,6 +63,13 @@
   </br>3. 使用 Firebase 做為 FaceBook 登入的橋接
   </br>4. 購物資料透過 Firebase 的 DataBase 來儲存
   </br>5. 使用 Bootstrap 進行格線規劃
+
+* Vue - Weather Search -  https://hotman0901.github.io/Taiwan-Weather-Search/
+  </br>1. 使用 Vue 框架
+  </br>2. 使用 Vuex
+  </br>3. 使用 Google Map API
+  </br>4. 使用 OpenWeather API
+  </br>5. 使用 vue-chartjs 第三方套件製作溫度、壓力、濕度長條圖
 
 * RWD 切版練習
    </br>1. https://hotman0901.github.io/rwd-practice1/index.html
