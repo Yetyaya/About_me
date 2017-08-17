@@ -25,6 +25,7 @@
  * Sass + RWD 規劃網頁，不倚賴 CSS Framework 進行 RWD 客製化
  * jQuery 設計網頁動畫效果，了解如何使用第三方套件
  * JSON/Ajax 透過 Open Data 串接資料應用
+ * Vue 框架使用
  
 #### 後端 
 
