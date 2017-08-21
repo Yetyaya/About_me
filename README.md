@@ -71,7 +71,7 @@
   </br>4. 使用 OpenWeather API
   </br>5. 使用 vue-chartjs 第三方套件製作溫度、壓力、濕度長條圖
 
-* RWD 切版練習
+* RWD 切版
    </br>1. https://hotman0901.github.io/rwd-practice1/index.html
 <hr>
 
