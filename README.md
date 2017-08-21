@@ -3,7 +3,6 @@
  - Education： 逢甲大學-自動控制工程學系
  - Location： New Taipei
  - E-Mail： hotman0901@gmail.com
- - Mobile： 0921-459-889
  - Personal Website： https://github.com/hotman0901
 
 <hr>
