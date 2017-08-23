@@ -72,7 +72,8 @@
   </br>5. 使用 vue-chartjs 第三方套件製作溫度、壓力、濕度長條圖
 
 * RWD 切版
-   </br>1. https://hotman0901.github.io/rwd-practice1/index.html
+   </br>1. https://hotman0901.github.io/rwd-practice1/
+   </br>2. https://hotman0901.github.io/rwd-practice2/
 <hr>
 
 ## 未來計劃
