@@ -74,6 +74,10 @@
 * RWD 切版
    </br>1. https://hotman0901.github.io/rwd-practice1/
    </br>2. https://hotman0901.github.io/rwd-practice2/
+   
+* 其他
+   </br>1. https://hotman0901.github.io/skroller-resume/ 
+   
 <hr>
 
 ## 未來計劃
