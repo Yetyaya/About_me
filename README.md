@@ -82,7 +82,8 @@
    </br>1. https://500px.com/hotman0901
    
 * Google Analytics Embed API - https://hotman0901.github.io/ga-view/
-   </br>必須已有網站埋過ga code，登入後才可以看到embed API圖表結果
+   </br>1.必須已有網站埋過 GA Code，登入後才可以看到 Embed API 圖表結果
+   </br>2.使用 React框架
 <hr>
 
 ## 未來計劃
