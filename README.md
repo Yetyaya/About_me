@@ -79,7 +79,10 @@
    </br>1. https://hotman0901.github.io/skroller-resume/ 
 
 * 攝影
-   </br>1. https://500px.com/hotman0901    
+   </br>1. https://500px.com/hotman0901
+   
+* Google Analytics Embed API, - https://hotman0901.github.io/ga-view/
+   </br>必須已有網站埋過ga code，登入後才可以看到embed API圖表結果
 <hr>
 
 ## 未來計劃
