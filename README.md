@@ -24,7 +24,8 @@
  * Sass + RWD 規劃網頁，不倚賴 CSS Framework 進行 RWD 客製化
  * jQuery 設計網頁動畫效果，了解如何使用第三方套件
  * JSON/Ajax 透過 Open Data 串接資料應用
- * Vue 框架使用
+ * Vue 、React框架使用
+ * Css Flex
  
 #### 後端 
 
@@ -33,7 +34,6 @@
 #### 其他
  * Git/GitHub 基本使用(GUI：Source Tree、GitKraken)
  * DataBase Orcale SQL 基本語法
- * Server Tomcat、Weblogic、JBoss 與 JAVA 做整合
  * IReport 報表製作
  * Photoshop、Illustrator 基本工具操作
  
